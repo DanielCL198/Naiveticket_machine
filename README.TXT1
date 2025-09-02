@@ -1,0 +1,42 @@
+Project: naive-ticket-machine
+Authors: David Barnes and Michael Kölling
+
+This project is part of the material for the book
+
+   Objects First with Java - A Practical Introduction using BlueJ
+   Seventh edition
+   David J. Barnes and Michael Kölling
+   Pearson Education
+
+It is discussed in chapter 2.
+
+Purpose of project: To illustrate the basics of fields, constructors, and methods.
+How to start this project: Create one or more TicketMachine objects.
+
+** Answers **
+
+2.  The balance returned is 0
+
+3. the balanced returned is always zero and the machine doesnt care about how much money you have, it will always print a ticket when it is asked to do so
+
+5. Nothing has changed on the ticket other than the price. 
+
+6. I think it will be more elaborate
+
+7. If we write the opposite, there are many more errors in the code. The message that is given when we click compile does give a helpful hint on on which lines the errors can be found, but does not tell us exactly what was the error in the line of cod3
+
+8.you can leave out the word public, this will lead to no basic coding errors
+
+9. leaving out the word class gives us the same amount of errors as we had in question 7.
+
+10.the one constructor is the public ticket machine, the two feilds are getPrice and getBalance, and the methods are the void InsertMoney and Void PrintTicket
+
+11. It has the same name as the class it is from and it stores values
+
+12. Int, Student, Server
+
+13. alive, tutor, game
+
+14
+
+
