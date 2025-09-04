@@ -37,6 +37,30 @@ How to start this project: Create one or more TicketMachine objects.
 
 13. alive, tutor, game
 
-14
+14. Student, Server, Person, Game
+
+15. Yes, there are many errors if you put it in any other order that isnt private int price
+
+16. Yes it is obligatory or else there will be an error
+
+17. public int status
+
+18. Student
+
+19. 2 types, String and double
+
+20. Title of books and price of books.
+
+21. public Pet(String petsName)
+{
+  name=petsName
+}
+
+
+23. the names are different
+
+24.How much money do I have?
+
+25. Changing the name does not give any errors when compiling, this means that the name of an accessor method can be changed as long as the body remains the same
 
 
