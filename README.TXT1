@@ -63,4 +63,41 @@ How to start this project: Create one or more TicketMachine objects.
 
 25. Changing the name does not give any errors when compiling, this means that the name of an accessor method can be changed as long as the body remains the same
 
+27. It is not a proper stateent
 
+28. their types are different, printTicket is a void, and get price has an int type
+
+29. No they do not, I think this might be because they do not give back information to the user that they can change themselves
+
+31. 
+public void increaseScore(int points)
+{
+   Score=intpoints
+}
+33. 
+public void discount(int amount)
+{
+amount-=price
+}
+34. public int age(currentAge)
+{
+   age=currentAge
+}
+35. private boolean alive()
+{
+   boolean=alive
+}
+36. the price stays at 0 and does not listen to the constrain i gave it previously
+
+37. My cat has green eyes
+
+39. 
+#
+price
+cents
+
+40. # price cents
+
+42. The constraint that is given when making the object allows you to choose their price,
+this means that if we choose a different price for each, the output for showPrice
+will corresond to what information it was given when it was made, making them both output a different number
